@@ -7,7 +7,7 @@ A QR Code Generator that you can submit a URL to the search box. That is receive
 [https://aulonajvazi.github.io/Student-Database/](https://aulonajvazi.github.io/QR-Code-Generator/)
 
 ## Authors
-- [@AulonAjvazi]([https://www.github.com/AulonAjvazi])
+- [@AulonAjvazi](https://www.github.com/AulonAjvazi)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulon-ajvazi/)
