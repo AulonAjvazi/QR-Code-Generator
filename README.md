@@ -4,7 +4,7 @@ A QR Code Generator that you can submit a URL to the search box. That is receive
 
 ## Project
 
-[https://aulonajvazi.github.io/Student-Database/](https://aulonajvazi.github.io/QR-Code-Generator/)
+https://aulonajvazi.github.io/QR-Code-Generator/
 
 ## Authors
 - [@AulonAjvazi](https://www.github.com/AulonAjvazi)
