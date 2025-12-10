@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QRCode Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <h1 class="Headertext">Type in a URL in the search box</h1>
+
+    <input
+      type="text"
+      name="Urltypebox"
+      id="inputurl"
+      placeholder="Type a URL"
+      required=""
+    />
+    <button class="button" name="urlsubmit" type="submit">
+      <div><span>Generate</span></div>
+    </button>
+    <p class="submitfeedback"></p>
+
+    <div id="qrcode"></div>
+
+    <footer class="footer-name">
+      &copy;
+      <span class="year"></span>
+      Aulon Ajvazi, this is a QR Code Generator website
+    </footer>
+    <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/qrcode.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
